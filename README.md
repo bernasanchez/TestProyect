@@ -23,6 +23,8 @@ Un Incremento es un peldaño concreto hacia el Objetivo del Producto. Cada Incre
 #### _Compromiso: Definición de Hecho_
 _La Definición de Terminado es una descripción formal del estado del Incremento cuando cumple con las medidas de calidad requeridas para el producto. En el momento en que un elemento del Product Backlog cumple con la Definición de Listo, nace un Incremento_
 
+### 4. Creacion Nueva Rama 
+New branch from devBernardoSanchez
 
 
 
